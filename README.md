@@ -33,6 +33,13 @@ Built with Streamlit for a smooth and interactive user interface, the applicatio
 
 ---
 
+## Demo
+
+
+https://github.com/user-attachments/assets/180b4c44-8b1b-4f1b-bad3-b62ab7cdd87c
+
+
+
 ## Getting Started
 
 ### Prerequisites
