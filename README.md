@@ -142,13 +142,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-## Contact
-
-For questions or support, contact:  
-**Your Name**  
-Email: your.email@example.com  
-GitHub: https://github.com/yourusername
-
----
 
 Thank you for using the AI-Powered Customer Feedback Summarizer!
